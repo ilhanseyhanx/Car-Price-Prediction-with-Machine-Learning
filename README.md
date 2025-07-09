@@ -1,6 +1,3 @@
-# Car-Price-Prediction-with-Machine-Learning
-🚗 ML-powered car price prediction model with 95.88% accuracy using Random Forest and comprehensive data preprocessing
-
 # Car Price Prediction with Machine Learning
 
 Bu proje, makine öğrenmesi algoritmalarını kullanarak araç fiyatlarını tahmin etmeyi amaçlayan bir veri bilimi projesidir. Proje, araç özelliklerini analiz ederek MSRP (Manufacturer's Suggested Retail Price) değerlerini tahmin eder.
